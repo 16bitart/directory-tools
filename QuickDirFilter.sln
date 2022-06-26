@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickDirFilter.Application", "QuickDirFilter.Application\QuickDirFilter.Application.csproj", "{3F47DF74-F4C4-4BA4-887D-F3020DA8FEE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryPlus", "DirectoryPlus\DirectoryPlus.csproj", "{97B180B4-F903-4B67-AA2B-25CC65AB2804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F47DF74-F4C4-4BA4-887D-F3020DA8FEE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F47DF74-F4C4-4BA4-887D-F3020DA8FEE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F47DF74-F4C4-4BA4-887D-F3020DA8FEE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F47DF74-F4C4-4BA4-887D-F3020DA8FEE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B180B4-F903-4B67-AA2B-25CC65AB2804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B180B4-F903-4B67-AA2B-25CC65AB2804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B180B4-F903-4B67-AA2B-25CC65AB2804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B180B4-F903-4B67-AA2B-25CC65AB2804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06A88184-F6EF-4701-86DF-0C260E24249E}
+	EndGlobalSection
+EndGlobal
